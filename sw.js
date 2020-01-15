@@ -22,6 +22,8 @@ const APP_SHELL_INMUTABLE = [
   "https://fonts.googleapis.com/css?family=Lato:400,300",
   "css/animate.css",
   "https://kit.fontawesome.com/082eb78a2f.js",
+  "https://kit-free.fontawesome.com/releases/latest/css/free-v4-shims.min.css",
+  "https://kit-free.fontawesome.com/releases/latest/css/free.min.css",
   "js/libs/jquery.js"
 ];
 
